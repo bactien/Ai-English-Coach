@@ -1,0 +1,8 @@
+{
+  "name": "AI English Coach",
+  "description": "An application to practice English conversation, pronunciation, and fluency with an AI-powered coach. Features include contextual conversations, chunk-based learning, and personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

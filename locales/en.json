@@ -1,0 +1,251 @@
+
+{
+  "header": {
+    "login": "Login",
+    "go_pro": "Go Pro",
+    "hi": "Hi, {{name}}",
+    "logout": "Logout",
+    "settings": "Settings"
+  },
+  "locale_code": "en-US",
+  "nav": {
+    "dashboard": "Dashboard",
+    "converse": "Converse",
+    "shadowing": "Shadowing",
+    "plan": "Plan",
+    "history": "History",
+    "gym": "Focus"
+  },
+  "dashboard": {
+    "welcome": "Welcome Back",
+    "progress_overview": "Here's your progress overview.",
+    "login_prompt": "Login to track your progress.",
+    "active_days": "Active Days",
+    "total_spoken": "Total Spoken",
+    "chunks_mastered": "Chunks Mastered",
+    "unit_days": "days",
+    "unit_minutes": "minutes",
+    "unit_phrases": "phrases",
+    "weekly_speaking_time": "Weekly Speaking Time",
+    "recent_conversations": "Recent Conversations",
+    "view_all": "View All",
+    "history_empty": "Your conversation history will appear here.",
+    "start_conversation": "Start a Conversation",
+    "start_learning": "Practice Modes",
+    "drill_title": "5-Minute Drill",
+    "drill_desc": "A quick, high-intensity workout to start your day.",
+    "drill_desc_nextup": "A quick workout to warm you up.",
+    "converse_title": "Conversation Practice",
+    "converse_desc": "Jump into real-world scenarios with an AI partner.",
+    "shadow_title": "Chunk Shadowing",
+    "shadow_desc": "Perfect your pronunciation of key phrases.",
+    "gym_title": "Pronunciation Gym",
+    "gym_desc": "Focus on specific sounds to perfect your speech.",
+    "plan_title": "Personalized Plan",
+    "plan_desc_pro": "View your custom 4-week plan.",
+    "plan_desc_free": "Get a custom plan to reach your goals faster.",
+    "explorer_title": "Topic Explorer (PRO)",
+    "explorer_desc": "Discuss any topic with a search-powered AI.",
+    "next_up": "Next Up",
+    "next_task_in_plan": "Your next task in your personalized plan.",
+    "unlock_plan_prompt": "Upgrade to Pro to unlock your personalized plan!",
+    "day_streak": "Day Streak",
+    "todays_goal": "Today's Goal",
+    "goal_complete": "Goal Complete!",
+    "longest_streak": "Longest: {{count}} days"
+  },
+  "time": {
+    "days_ago": "{{count}} days ago",
+    "yesterday": "Yesterday",
+    "hours_ago": "{{count}} hours ago",
+    "hour_ago": "1 hour ago",
+    "minutes_ago": "{{count}} minutes ago",
+    "just_now": "Just now"
+  },
+  "errors": {
+    "speech_not_supported_title": "Speech Recognition Not Supported",
+    "speech_not_supported_desc": "Sorry, your browser does not support the Web Speech API. Please try Chrome or Edge.",
+    "mic_error_title": "Microphone Error",
+    "mic_error_desc": "Could not record audio. Please grant microphone permissions and ensure your mic is working.",
+    "mic_error_desc_short": "Could not record. Please ensure your browser has microphone access and it's not in use."
+  },
+  "conversation": {
+    "title": "Conversation Practice",
+    "subtitle": "Choose a scenario to start talking.",
+    "back_to_scenarios": "← Back to Scenarios",
+    "talking_to": "You are talking to:"
+  },
+  "scenario": {
+    "job-interview": {
+      "description": "Practice answering common questions for a a software engineer role."
+    },
+    "daily-scrum": {
+      "description": "Give updates and discuss blockers in a typical agile meeting."
+    },
+    "coffee-chat": {
+      "description": "Practice small talk and professional networking."
+    },
+    "behavioral-interview-pro": {
+      "description": "Handle tough behavioral questions using the STAR method."
+    }
+  },
+  "speech": {
+    "listening": "Listening",
+    "processing": "Processing",
+    "tap_to_speak": "Tap to Speak"
+  },
+  "feedback": {
+    "linguistic": "Linguistic Feedback",
+    "fluency": "Fluency Coaching",
+    "content": "Content Feedback",
+    "view_feedback": "View Feedback",
+    "sources": "Sources"
+  },
+  "shadowing": {
+    "title": "Chunk Shadowing",
+    "subtitle": "Practice key phrases to improve your fluency and pronunciation.",
+    "listen": "Listen",
+    "record": "Record",
+    "getting_feedback": "Getting feedback",
+    "feedback_title": "Feedback",
+    "upgrade_prompt": "Upgrade to Pro for detailed scoring & analysis"
+  },
+  "plan": {
+    "unlock_title": "Unlock Your Personalized Plan",
+    "unlock_desc": "Go Pro to get a step-by-step, 4-week learning journey tailored to your goals, including advanced feedback and exclusive content.",
+    "upgrade_button": "Upgrade to Pro",
+    "title": "Your Personalized Fluency Plan",
+    "subtitle": "Your 4-week guided journey to speaking with confidence.",
+    "week": "Week {{week}}",
+    "mark_complete": "Mark task as complete",
+    "mark_incomplete": "Mark task as incomplete",
+    "week1_title": "Foundations & Confidence",
+    "w1t1": "Complete 'Networking Coffee Chat'",
+    "w1t2": "Master 3 'Meetings' chunks",
+    "w1t3": "Focus on clear '/th/' sounds",
+    "w1t4": "Complete 'Daily Scrum Meeting'",
+    "week2_title": "Core Professional Skills",
+    "w2t1": "Master 3 'Project Management' chunks",
+    "w2t2": "Practice handling interruptions in 'Daily Scrum'",
+    "w2t3": "Focus on sentence stress and intonation",
+    "w2t4": "Review Week 1 conversations",
+    "week3_title": "Advanced Scenarios",
+    "w3t1": "Complete 'Job Interview' scenario",
+    "w3t2": "Master 3 'Interviews' chunks",
+    "w3t3": "Practice asking clarifying questions",
+    "w3t4": "Give a 2-minute project update",
+    "week4_title": "Fluency & Polish",
+    "w4t1": "Handle difficult interview questions",
+    "w4t2": "Use 5 new chunks naturally in conversation",
+    "w4t3": "Focus on reducing filler words ('um', 'ah')",
+    "w4t4": "Final review and assessment"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Unlock your full potential and speak English with confidence.",
+    "free_title": "Free",
+    "free_desc": "Get started and build a solid foundation.",
+    "month": "month",
+    "feature_scenarios_free": "3 Conversation Scenarios",
+    "feature_feedback_free": "Basic Pronunciation Feedback",
+    "feature_chunks_free": "Limited Chunk Library",
+    "current_plan_button": "Your Current Plan",
+    "popular_badge": "Most Popular",
+    "pro_title": "Pro",
+    "pro_desc": "Accelerate your learning with personalized tools.",
+    "feature_scenarios_pro": "Unlimited Conversation Scenarios",
+    "feature_plan_pro": "Personalized 4-Week Fluency Plan",
+    "feature_coaching_pro": "Fluency & Confidence Coaching",
+    "feature_feedback_pro": "Advanced Pronunciation & Intonation Feedback",
+    "feature_chunks_pro": "Expanded Chunk Library",
+    "upgrade_button": "Upgrade to Pro"
+  },
+  "drill": {
+    "title": "5-Minute Drill",
+    "subtitle": "A high-intensity workout to boost your speaking reflexes. Get ready to speak, listen, and react quickly!",
+    "start_button": "Start Drill",
+    "finished_title": "Drill Complete!",
+    "finished_subtitle": "Amazing work! You've completed your daily speaking workout and strengthened your English skills.",
+    "back_to_dashboard": "Back to Dashboard",
+    "respond_prompt": "Respond to this prompt",
+    "repeat_phrase": "Repeat this phrase"
+  },
+  "explorer": {
+    "unlock_title": "Unlock Topic Explorer",
+    "unlock_desc": "Go Pro to practice discussing any topic you're interested in with an AI powered by Google Search, complete with sources for fact-checking and further reading.",
+    "title": "Topic Explorer",
+    "subtitle": "Practice English by discussing any topic you're interested in. Powered by Google Search for up-to-date information.",
+    "placeholder": "e.g., The future of AI, recent space discoveries...",
+    "change_topic": "← Change Topic",
+    "topic": "Topic",
+    "powered_by": "Powered by Google Search"
+  },
+  "settings": {
+    "login_prompt": "Please log in to view settings.",
+    "title": "Settings",
+    "subtitle": "Customize your learning experience.",
+    "accent_title": "Coach's Accent",
+    "accent_desc": "Choose the accent you want to hear from your AI coach during practice sessions."
+  },
+  "review": {
+    "not_found_title": "Conversation Not Found",
+    "not_found_desc": "Sorry, we couldn't find the conversation you're looking for.",
+    "title": "Review",
+    "practiced_on": "Practiced on",
+    "footer": "This is a read-only review of your past conversation."
+  },
+  "history": {
+    "login_prompt": "Please log in to view your history.",
+    "go_to_dashboard": "Go to Dashboard",
+    "title": "Conversation History",
+    "subtitle": "Review your past practice sessions and track your progress.",
+    "empty_state": "Your conversation history is empty."
+  },
+  "onboarding": {
+    "step1_title": "Welcome to AI English Coach!",
+    "step1_desc": "Let's take a quick tour to help you get started on your journey to fluency.",
+    "step2_title": "Practice Conversations",
+    "step2_desc": "Jump into realistic scenarios like job interviews or daily stand-ups to practice speaking with an AI partner.",
+    "step3_title": "Perfect Your Pronunciation",
+    "step3_desc": "Use 'Chunk Shadowing' to repeat key phrases and get instant, detailed feedback on your speech.",
+    "step4_title": "Daily 5-Minute Drills",
+    "step4_desc": "Short on time? A daily drill is a quick, high-intensity workout to keep your skills sharp.",
+    "skip": "Skip",
+    "next": "Next",
+    "lets_go": "Let's Go!"
+  },
+  "translate": {
+    "translate": "Translate",
+    "translating": "Translating..."
+  },
+  "gym": {
+    "title": "Pronunciation Gym",
+    "subtitle": "Select a sound to focus on and perfect your pronunciation.",
+    "pro_prompt": "Upgrade to Pro to unlock more sounds.",
+    "practice_title": "Practicing: {{sound}}",
+    "back_to_sounds": "← Back to Sounds",
+    "next_item": "Next",
+    "completed_title": "Great Work!",
+    "completed_desc": "You've completed all items for this sound. Practice makes perfect!",
+    "practice_again": "Practice Again",
+    "choose_another": "Choose Another Sound"
+  },
+  "phonemes": {
+    "th-voiceless": {
+      "name": "Voiceless 'th'",
+      "description": "Practice the 'th' sound as in 'think'. Your tongue should be between your teeth."
+    },
+    "th-voiced": {
+      "name": "Voiced 'th'",
+      "description": "Practice the 'th' sound as in 'this'. Feel the vibration in your throat."
+    },
+    "r-sound": {
+      "name": "'r' Sound",
+      "description": "Practice the American 'r' sound. Your tongue should not touch the roof of your mouth."
+    },
+    "l-sound": {
+      "name": "'l' Sound",
+      "description": "Practice the 'l' sound. Your tongue tip should touch the ridge behind your top teeth."
+    }
+  }
+}

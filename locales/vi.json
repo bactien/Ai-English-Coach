@@ -1,0 +1,251 @@
+
+{
+  "header": {
+    "login": "Đăng nhập",
+    "go_pro": "Nâng cấp Pro",
+    "hi": "Chào, {{name}}",
+    "logout": "Đăng xuất",
+    "settings": "Cài đặt"
+  },
+  "locale_code": "vi-VN",
+  "nav": {
+    "dashboard": "Bảng điều khiển",
+    "converse": "Hội thoại",
+    "shadowing": "Luyện nói",
+    "plan": "Kế hoạch",
+    "history": "Lịch sử",
+    "gym": "Tập trung"
+  },
+  "dashboard": {
+    "welcome": "Chào mừng trở lại",
+    "progress_overview": "Đây là tổng quan tiến độ của bạn.",
+    "login_prompt": "Đăng nhập để theo dõi tiến độ của bạn.",
+    "active_days": "Ngày hoạt động",
+    "total_spoken": "Tổng thời gian nói",
+    "chunks_mastered": "Mẫu câu đã thạo",
+    "unit_days": "ngày",
+    "unit_minutes": "phút",
+    "unit_phrases": "cụm từ",
+    "weekly_speaking_time": "Thời gian nói hàng tuần",
+    "recent_conversations": "Cuộc hội thoại gần đây",
+    "view_all": "Xem tất cả",
+    "history_empty": "Lịch sử hội thoại của bạn sẽ xuất hiện ở đây.",
+    "start_conversation": "Bắt đầu hội thoại",
+    "start_learning": "Chế độ luyện tập",
+    "drill_title": "Luyện tập 5 phút",
+    "drill_desc": "Bài luyện tập nhanh, cường độ cao để bắt đầu ngày mới.",
+    "drill_desc_nextup": "Một bài luyện tập nhanh để khởi động.",
+    "converse_title": "Thực hành hội thoại",
+    "converse_desc": "Tham gia vào các tình huống thực tế với đối tác AI.",
+    "shadow_title": "Luyện nói theo mẫu",
+    "shadow_desc": "Hoàn thiện phát âm các cụm từ chính.",
+    "gym_title": "Phòng Luyện Phát Âm",
+    "gym_desc": "Tập trung vào các âm cụ thể để hoàn thiện bài nói.",
+    "plan_title": "Kế hoạch cá nhân",
+    "plan_desc_pro": "Xem kế hoạch 4 tuần tùy chỉnh của bạn.",
+    "plan_desc_free": "Nhận kế hoạch tùy chỉnh để đạt mục tiêu nhanh hơn.",
+    "explorer_title": "Khám phá chủ đề (PRO)",
+    "explorer_desc": "Thảo luận về bất kỳ chủ đề nào với AI được hỗ trợ bởi tìm kiếm.",
+    "next_up": "Tiếp theo",
+    "next_task_in_plan": "Nhiệm vụ tiếp theo trong kế hoạch của bạn.",
+    "unlock_plan_prompt": "Nâng cấp Pro để mở khóa kế hoạch cá nhân của bạn!",
+    "day_streak": "Chuỗi ngày",
+    "todays_goal": "Mục tiêu hôm nay",
+    "goal_complete": "Đã hoàn thành mục tiêu!",
+    "longest_streak": "Dài nhất: {{count}} ngày"
+  },
+  "time": {
+    "days_ago": "{{count}} ngày trước",
+    "yesterday": "Hôm qua",
+    "hours_ago": "{{count}} giờ trước",
+    "hour_ago": "1 giờ trước",
+    "minutes_ago": "{{count}} phút trước",
+    "just_now": "Vừa xong"
+  },
+  "errors": {
+    "speech_not_supported_title": "Không hỗ trợ nhận dạng giọng nói",
+    "speech_not_supported_desc": "Rất tiếc, trình duyệt của bạn không hỗ trợ Web Speech API. Vui lòng thử Chrome hoặc Edge.",
+    "mic_error_title": "Lỗi Micro",
+    "mic_error_desc": "Không thể ghi âm. Vui lòng cấp quyền truy cập micro và đảm bảo micro của bạn đang hoạt động.",
+    "mic_error_desc_short": "Không thể ghi âm. Vui lòng đảm bảo trình duyệt có quyền truy cập micro và micro không được sử dụng."
+  },
+  "conversation": {
+    "title": "Thực hành hội thoại",
+    "subtitle": "Chọn một tình huống để bắt đầu nói.",
+    "back_to_scenarios": "← Quay lại các tình huống",
+    "talking_to": "Bạn đang nói chuyện với:"
+  },
+  "scenario": {
+    "job-interview": {
+      "description": "Luyện tập trả lời các câu hỏi phỏng vấn phổ biến cho vị trí kỹ sư phần mềm."
+    },
+    "daily-scrum": {
+      "description": "Cập nhật và thảo luận về các vấn đề trong một cuộc họp agile điển hình."
+    },
+    "coffee-chat": {
+      "description": "Thực hành các cuộc trò chuyện xã giao và kết nối chuyên nghiệp."
+    },
+    "behavioral-interview-pro": {
+      "description": "Xử lý các câu hỏi phỏng vấn hành vi khó bằng phương pháp STAR."
+    }
+  },
+  "speech": {
+    "listening": "Đang nghe",
+    "processing": "Đang xử lý",
+    "tap_to_speak": "Chạm để nói"
+  },
+  "feedback": {
+    "linguistic": "Phản hồi về ngôn ngữ",
+    "fluency": "Huấn luyện về độ trôi chảy",
+    "content": "Phản hồi về nội dung",
+    "view_feedback": "Xem phản hồi",
+    "sources": "Nguồn"
+  },
+  "shadowing": {
+    "title": "Luyện nói theo mẫu",
+    "subtitle": "Thực hành các cụm từ chính để cải thiện độ trôi chảy và phát âm.",
+    "listen": "Nghe",
+    "record": "Ghi âm",
+    "getting_feedback": "Đang nhận phản hồi",
+    "feedback_title": "Phản hồi",
+    "upgrade_prompt": "Nâng cấp lên Pro để nhận điểm và phân tích chi tiết"
+  },
+  "plan": {
+    "unlock_title": "Mở khóa Kế hoạch cá nhân",
+    "unlock_desc": "Nâng cấp Pro để có lộ trình học 4 tuần, từng bước được thiết kế cho mục tiêu của bạn, bao gồm phản hồi nâng cao và nội dung độc quyền.",
+    "upgrade_button": "Nâng cấp lên Pro",
+    "title": "Kế hoạch cá nhân của bạn",
+    "subtitle": "Hành trình 4 tuần để nói tiếng Anh tự tin.",
+    "week": "Tuần {{week}}",
+    "mark_complete": "Đánh dấu đã hoàn thành",
+    "mark_incomplete": "Bỏ đánh dấu hoàn thành",
+    "week1_title": "Nền tảng & Tự tin",
+    "w1t1": "Hoàn thành 'Trò chuyện cà phê'",
+    "w1t2": "Nắm vững 3 mẫu câu 'Họp hành'",
+    "w1t3": "Tập trung vào âm '/th/' rõ ràng",
+    "w1t4": "Hoàn thành 'Họp Scrum hàng ngày'",
+    "week2_title": "Kỹ năng chuyên môn cốt lõi",
+    "w2t1": "Nắm vững 3 mẫu câu 'Quản lý dự án'",
+    "w2t2": "Luyện tập xử lý gián đoạn trong 'Họp Scrum'",
+    "w2t3": "Tập trung vào trọng âm câu và ngữ điệu",
+    "w2t4": "Ôn lại các cuộc hội thoại Tuần 1",
+    "week3_title": "Tình huống nâng cao",
+    "w3t1": "Hoàn thành kịch bản 'Phỏng vấn xin việc'",
+    "w3t2": "Nắm vững 3 mẫu câu 'Phỏng vấn'",
+    "w3t3": "Luyện tập đặt câu hỏi làm rõ",
+    "w3t4": "Cập nhật dự án trong 2 phút",
+    "week4_title": "Trôi chảy & Hoàn thiện",
+    "w4t1": "Xử lý các câu hỏi phỏng vấn khó",
+    "w4t2": "Sử dụng 5 mẫu câu mới một cách tự nhiên",
+    "w4t3": "Tập trung giảm từ đệm ('ờ', 'à')",
+    "w4t4": "Ôn tập và đánh giá cuối cùng"
+  },
+  "pricing": {
+    "title": "Chọn gói của bạn",
+    "subtitle": "Khai phá tiềm năng và nói tiếng Anh tự tin.",
+    "free_title": "Miễn phí",
+    "free_desc": "Bắt đầu và xây dựng nền tảng vững chắc.",
+    "month": "tháng",
+    "feature_scenarios_free": "3 kịch bản hội thoại",
+    "feature_feedback_free": "Phản hồi phát âm cơ bản",
+    "feature_chunks_free": "Thư viện mẫu câu giới hạn",
+    "current_plan_button": "Gói hiện tại của bạn",
+    "popular_badge": "Phổ biến nhất",
+    "pro_title": "Chuyên nghiệp",
+    "pro_desc": "Tăng tốc học tập với các công cụ cá nhân hóa.",
+    "feature_scenarios_pro": "Kịch bản hội thoại không giới hạn",
+    "feature_plan_pro": "Kế hoạch 4 tuần cá nhân hóa",
+    "feature_coaching_pro": "Huấn luyện độ trôi chảy & tự tin",
+    "feature_feedback_pro": "Phản hồi phát âm & ngữ điệu nâng cao",
+    "feature_chunks_pro": "Thư viện mẫu câu mở rộng",
+    "upgrade_button": "Nâng cấp lên Pro"
+  },
+  "drill": {
+    "title": "Luyện tập 5 phút",
+    "subtitle": "Một bài luyện tập cường độ cao để tăng cường phản xạ nói của bạn. Sẵn sàng nói, nghe và phản ứng nhanh!",
+    "start_button": "Bắt đầu luyện tập",
+    "finished_title": "Hoàn thành!",
+    "finished_subtitle": "Làm tốt lắm! Bạn đã hoàn thành bài tập nói hàng ngày và củng cố kỹ năng tiếng Anh của mình.",
+    "back_to_dashboard": "Về Bảng điều khiển",
+    "respond_prompt": "Phản hồi lại câu này",
+    "repeat_phrase": "Lặp lại cụm từ này"
+  },
+  "explorer": {
+    "unlock_title": "Mở khóa Khám phá Chủ đề",
+    "unlock_desc": "Nâng cấp Pro để luyện tập thảo luận về bất kỳ chủ đề nào bạn quan tâm với AI được hỗ trợ bởi Google Search, kèm theo các nguồn để kiểm tra thông tin và đọc thêm.",
+    "title": "Khám phá Chủ đề",
+    "subtitle": "Luyện tiếng Anh bằng cách thảo luận về bất kỳ chủ đề nào bạn quan tâm. Được hỗ trợ bởi Google Search cho thông tin mới nhất.",
+    "placeholder": "ví dụ: Tương lai của AI, khám phá không gian gần đây...",
+    "change_topic": "← Thay đổi chủ đề",
+    "topic": "Chủ đề",
+    "powered_by": "Hỗ trợ bởi Google Search"
+  },
+  "settings": {
+    "login_prompt": "Vui lòng đăng nhập để xem cài đặt.",
+    "title": "Cài đặt",
+    "subtitle": "Tùy chỉnh trải nghiệm học tập của bạn.",
+    "accent_title": "Giọng của Huấn luyện viên",
+    "accent_desc": "Chọn giọng bạn muốn nghe từ huấn luyện viên AI trong các buổi thực hành."
+  },
+  "review": {
+    "not_found_title": "Không tìm thấy cuộc hội thoại",
+    "not_found_desc": "Rất tiếc, chúng tôi không thể tìm thấy cuộc hội thoại bạn đang tìm kiếm.",
+    "title": "Xem lại",
+    "practiced_on": "Thực hành vào",
+    "footer": "Đây là bản xem lại chỉ đọc của cuộc hội thoại trước đây của bạn."
+  },
+  "history": {
+    "login_prompt": "Vui lòng đăng nhập để xem lịch sử.",
+    "go_to_dashboard": "Đến Bảng điều khiển",
+    "title": "Lịch sử hội thoại",
+    "subtitle": "Xem lại các buổi thực hành trước đây và theo dõi tiến trình của bạn.",
+    "empty_state": "Lịch sử hội thoại của bạn đang trống."
+  },
+  "onboarding": {
+    "step1_title": "Chào mừng đến với AI English Coach!",
+    "step1_desc": "Hãy cùng tham quan nhanh để giúp bạn bắt đầu hành trình đến sự trôi chảy.",
+    "step2_title": "Thực hành Hội thoại",
+    "step2_desc": "Tham gia vào các kịch bản thực tế như phỏng vấn xin việc hoặc họp hàng ngày để luyện nói với đối tác AI.",
+    "step3_title": "Hoàn thiện Phát âm của bạn",
+    "step3_desc": "Sử dụng 'Luyện nói theo mẫu' để lặp lại các cụm từ chính và nhận phản hồi tức thì, chi tiết về bài nói của bạn.",
+    "step4_title": "Luyện tập 5 phút hàng ngày",
+    "step4_desc": "Ít thời gian? Một bài luyện tập hàng ngày là một bài tập nhanh, cường độ cao để giữ cho kỹ năng của bạn luôn sắc bén.",
+    "skip": "Bỏ qua",
+    "next": "Tiếp theo",
+    "lets_go": "Bắt đầu nào!"
+  },
+  "translate": {
+    "translate": "Dịch",
+    "translating": "Đang dịch..."
+  },
+  "gym": {
+    "title": "Phòng Luyện Phát Âm",
+    "subtitle": "Chọn một âm thanh để tập trung và hoàn thiện phát âm của bạn.",
+    "pro_prompt": "Nâng cấp Pro để mở khóa thêm nhiều âm thanh.",
+    "practice_title": "Đang luyện tập: {{sound}}",
+    "back_to_sounds": "← Quay lại danh sách âm",
+    "next_item": "Tiếp theo",
+    "completed_title": "Làm tốt lắm!",
+    "completed_desc": "Bạn đã hoàn thành tất cả các mục cho âm này. Luyện tập tạo nên sự hoàn hảo!",
+    "practice_again": "Luyện tập lại",
+    "choose_another": "Chọn âm khác"
+  },
+  "phonemes": {
+    "th-voiceless": {
+      "name": "Âm 'th' không rung",
+      "description": "Luyện âm 'th' như trong 'think'. Lưỡi của bạn nên ở giữa hai hàm răng."
+    },
+    "th-voiced": {
+      "name": "Âm 'th' rung",
+      "description": "Luyện âm 'th' như trong 'this'. Cảm nhận sự rung trong cổ họng của bạn."
+    },
+    "r-sound": {
+      "name": "Âm 'r'",
+      "description": "Luyện âm 'r' của người Mỹ. Lưỡi của bạn không nên chạm vào vòm miệng."
+    },
+    "l-sound": {
+      "name": "Âm 'l'",
+      "description": "Luyện âm 'l'. Đầu lưỡi của bạn nên chạm vào phần lợi phía sau răng cửa trên."
+    }
+  }
+}

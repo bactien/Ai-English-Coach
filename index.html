@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI English Coach</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'brand-primary': '#007AFF',
+              'brand-secondary': '#34C759',
+              'brand-background': '#121212',
+              'brand-surface': '#1E1E1E',
+              'brand-surface-light': '#2C2C2E',
+              'brand-text-primary': '#FFFFFF',
+              'brand-text-secondary': '#8E8E93',
+            },
+          },
+        },
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@18.2.0?pin=v135",
+    "react/jsx-runtime": "https://esm.sh/react@18.2.0/jsx-runtime?pin=v135",
+    "react-dom": "https://esm.sh/react-dom@18.2.0?pin=v135",
+    "react-dom/client": "https://esm.sh/react-dom@18.2.0/client?pin=v135",
+    "@google/genai": "https://esm.sh/@google/genai@1.13.0?pin=v135",
+    "react-router-dom": "https://esm.sh/react-router-dom@6.23.0?pin=v135&external=react,react-dom",
+    "recharts": "https://esm.sh/recharts@2.12.7?pin=v135&external=react,react-dom",
+    "react-dom/": "https://esm.sh/react-dom@18.2.0/?pin=v135",
+    "react/": "https://esm.sh/react@18.2.0/?pin=v135"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-brand-background text-brand-text-primary">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
